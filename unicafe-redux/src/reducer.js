@@ -1,4 +1,3 @@
-/* eslint-disable */
 
 const initialState = {
     good: 0,
